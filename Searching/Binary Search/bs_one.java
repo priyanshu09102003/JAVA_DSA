@@ -2,7 +2,7 @@
 public class bs_one {
     public static void main(String[] args) {
         int[] arr = {2, 6, 8, 12, 14, 16, 18, 22, 25, 29};
-        int target = 18;
+        int target = 6;
         
         int ans = binarySearch(arr, target);  
         
